@@ -6,3 +6,4 @@ github.com##span:has-text("Your Copilot"):upward(li)
 github.com##.TimelineItem:has(a:has-text(/(copilot|\bai\b|github models)/i))
 github.com##.AppHeader-CopilotChat
 github.com###blob-view-header-copilot-icon > .octicon-copilot.octicon:upward(div)
+github.com###span:has-text('Copilot'):upward(div):upward(div):upward(div)
