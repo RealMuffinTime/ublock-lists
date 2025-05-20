@@ -8,3 +8,4 @@ github.com##.AppHeader-CopilotChat
 github.com##blob-view-header-copilot-icon > .octicon-copilot.octicon:upward(div)
 github.com##span:has-text("Copilot"):upward(div):upward(div):upward(div)
 github.com##.Box-title:has-text("Your AI pair programmer"):upward(div):upward(div):upward(div)
+github.com##.ActionListItem-label:has-text("Models"):upward(li)
