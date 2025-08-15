@@ -3,7 +3,7 @@
 github.com##.copilotPreview__container
 github.com##span:has-text("GitHub Copilot")
 github.com##span:has-text("Your Copilot"):upward(li)
-github.com##.TimelineItem:has(a:has-text(/(copilot|\bai\b|github models|github mcp|openai|gpt)/i))
+github.com##.TimelineItem:has(a:has-text(/(copilot|\bai\b|github models|mcp|openai|gpt)/i))
 github.com##.AppHeader-CopilotChat
 github.com##blob-view-header-copilot-icon > .octicon-copilot.octicon:upward(div)
 github.com##span.ActionListItem-label:has-text(/(copilot|models)/i):upward(li)
